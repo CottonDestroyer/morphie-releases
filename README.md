@@ -17,3 +17,9 @@ An SCP:RP morph maker/storage, making morphing much more convenient.
 <img width="1442" height="932" alt="image" src="https://github.com/user-attachments/assets/6fda8c4e-c075-4fc7-b886-4908d6f46516" />
 
 You can browse the marketplace and visually add items to your morphs with just a click.
+
+## License
+
+Morphie is free to use but closed source. You can share it, but not sell, modify or reverse engineer it. See [LICENSE](LICENSE) for the full terms.
+
+Morphie is an unofficial fan-made tool and is not affiliated with Roblox Corporation or SCP: Roleplay.
